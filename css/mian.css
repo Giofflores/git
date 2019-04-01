@@ -1,5 +1,18 @@
 .container{
     background-color: aqua;
-    width: 500px;
-    height: 500px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+.bloque{
+    background-color: rgb(255, 0, 0);
+}
+
+.bloqueuno{
+    background-color: rgb(0, 0, 255);
+}
+
+.bloquedos{
+    background-color: rgb(87, 87, 139);
 }
